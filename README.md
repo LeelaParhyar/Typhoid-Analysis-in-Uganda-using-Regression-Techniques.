@@ -1,5 +1,5 @@
 
-# Typhoid-Analysis-in-Uganda-using-Regression-Techniques.
+# Typhoid Analysis in Uganda using Regression Techniques.
 This project analyzes and predicts the patterns and occurrences of the number of Typhoid cases in the different districts of Uganda using the following, regression models (Decision Tree, Random Forest and Support Vector Regression).
 ## Importing Necessary Libraries.
 Import esential libraries for data analysis, data manipulation, visualisation and model training.
